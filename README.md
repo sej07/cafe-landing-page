@@ -1,3 +1,9 @@
+This is landing page of a cafe created using react.
+![Screenshot 2024-03-28 185743](https://github.com/sej07/cafe-landing-page/assets/121630021/214f5025-8662-4a4e-94f8-dd215b9001bc)
+![Screenshot 2024-03-28 185836](https://github.com/sej07/cafe-landing-page/assets/121630021/7c2ffa9c-ab44-4dcf-97be-f20f0b7677e1)
+![Screenshot 2024-03-28 185857](https://github.com/sej07/cafe-landing-page/assets/121630021/ac1ca393-6946-4ee4-bcf5-10ec7ced1848)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
